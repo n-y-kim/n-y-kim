@@ -14,6 +14,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fn-y-kim&count_bg=%23FFFFFF&title_bg=%23F5DBFF&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img align = "center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-y-kim&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)</img>
+<h4 align = "center"> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-y-kim&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) </h4>
 
 
