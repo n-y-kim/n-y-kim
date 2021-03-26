@@ -1,5 +1,5 @@
 <h1 align = "center"> Nayeon's Github 👩‍💻 <br><img src="https://img.shields.io/badge/Swift-red?style=round-square&logo=Swift&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3766AB?style=round-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/C-yellow?style=round-square&logo=C&logoColor=white"/></a> <img src="https://img.shields.io/badge/C++-green?style=round-square&logo=C%2B%2B&logoColor=white"/></a> <br></h1>
-<h3 align = "center">You can connect me with 💌</h3> <br><br><p align = "middle">instagram 📲  <strong>@ny.k.i.m</strong><br>mail 📩  <strong>nyn2265@gmail.com</strong></p>
+<h3 align = "center">You can connect me with 💌</h3><p align = "middle">instagram 📲  <strong>@ny.k.i.m</strong><br>mail 📩  <strong>nyn2265@gmail.com</strong></p>
 <br>
 
 <h4 align = "center"> 아직 배워야 할 게 많은 동국대학교 멀티미디어공학과 19학번 김나연🤓<br>Dongguk University Multimedia Engineering👩🏻‍🎓</h4>
