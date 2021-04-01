@@ -1,7 +1,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=Nayeon's Github&fontSize=90&animation=twinkling&fontColor=ffffff&fontAlign:50&fontSize:40">
 
-<h1 align = "center"> Nayeon's Github 👩‍💻 <br><img src="https://img.shields.io/badge/Swift-FA7343?style=round-square&logo=Swift&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3766AB?style=round-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/C-yellow?style=round-square&logo=C&logoColor=white"/></a> <img src="https://img.shields.io/badge/C++-green?style=round-square&logo=C%2B%2B&logoColor=white"/></a>  <img src="https://img.shields.io/badge/HTML5-E34F26?style=round-square&logo=html%2B%2B&logoColor=white"/></a>  <img src="https://img.shields.io/badge/CSS-1572B6?style=round-square&logo=css3%2B%2B&logoColor=white"/></a><br></h1>
+<h1 align = "center"><br><img src="https://img.shields.io/badge/Swift-FA7343?style=round-square&logo=Swift&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3766AB?style=round-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/C-yellow?style=round-square&logo=C&logoColor=white"/></a> <img src="https://img.shields.io/badge/C++-green?style=round-square&logo=C%2B%2B&logoColor=white"/></a>  <img src="https://img.shields.io/badge/HTML5-E34F26?style=round-square&logo=html%2B%2B&logoColor=white"/></a>  <img src="https://img.shields.io/badge/CSS-1572B6?style=round-square&logo=css3%2B%2B&logoColor=white"/></a><br></h1>
 <h3 align = "center">You can connect me with 💌</h3><p align = "middle">instagram 📲  <strong>@ny.k.i.m</strong><br>mail 📩  <strong>nyn2265@gmail.com</strong></p>
 <br>
 
