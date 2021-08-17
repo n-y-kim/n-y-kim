@@ -1,7 +1,7 @@
 <!-- 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=Nayeon's Github&fontSize=90&animation=twinkling&fontColor=ffffff&fontAlign:50&fontSize:40"> -->
 ## Nayeon Kim🥑
-<a href="www.linkedin.com/in/nayeon-kim-kim"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&"/></a> <img src = "https://img.shields.io/badge/nyn2265@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> <a href="https://archive-me-0329.tistory.com/"><img src="https://img.shields.io/badge/Tech blog-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/nayeon-kim-72b863209/"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&"/></a> <img src = "https://img.shields.io/badge/nyn2265@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> <a href="https://archive-me-0329.tistory.com/"><img src="https://img.shields.io/badge/Tech blog-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"></a>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-y-kim"/> -->
 
 ### Hello👋 I'm...
