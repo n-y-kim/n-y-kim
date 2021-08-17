@@ -26,15 +26,8 @@
 <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white/"> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/> <img src = "https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/> <img src = "https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/> <img src = "https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
 <!-- 
 <img src="https://github-readme-stats.vercel.app/api?username=n-y-kim"/>  -->
-
 <!-- > #### Recent project, 🦄유니캘린더(UniCalendar) introduction link 👉🏻 https://projectintheclass.github.io/UniCalendar/<br>
 > ## 🔥 <string>Download link</string> 🔥 👉🏻 https://apps.apple.com/app/id1555101858  -->
-
-
-<br>
-<br>
 <!-- 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fn-y-kim&count_bg=%23FFFFFF&title_bg=%23F5DBFF&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  -->
-
-
