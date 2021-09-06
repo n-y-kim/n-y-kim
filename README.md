@@ -16,7 +16,6 @@
 
 - developing new application(Noongil)👁 for the app contest
 - watching cute videos of animals🐶🐱
-- studying Data Science and Machine Learning📈
 - uploading new posts about programming(BOJ, iOS, Algorithm...)
 - golf🏌️‍♀️
 
