@@ -7,8 +7,8 @@
 ### Hello👋 I'm...
 
 - majoring in `Multimedia Engineering at Dongguk Uni.(2019~)`
-- interested in `iOS development` and `Deep Learning`.
-- still searching🔍 my best future job(App developer? Backend? Graduate School..?)🤔
+- interested in `iOS development` and `Backend`.
+- still searching🔍 the best future job(App developer? Backend? Graduate School..?)🤔
 - `UniCalendar` Developer</br></br>
 <a href="https://apps.apple.com/kr/app/%EC%9C%A0%EB%8B%88%EC%BA%98%EB%A6%B0%EB%8D%94/id1555101858"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
 
