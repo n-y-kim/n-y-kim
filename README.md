@@ -8,8 +8,8 @@
 
 - majoring in `Multimedia Engineering at Dongguk Uni.(2019~)`
 - interested in `iOS development` and `Backend`.
-- `UniCalendar` Developer</br></br>
-<a href="https://apps.apple.com/kr/app/%EC%9C%A0%EB%8B%88%EC%BA%98%EB%A6%B0%EB%8D%94/id1555101858"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
+- `Noongil` & `UniCalendar` Developer</br></br>
+<img src="https://raw.githubusercontent.com/Bridge-NOONGIL/Noongil/main/Sandbox/AppIcons/appstore.png?token=ASJWU74MFYJHZNV7TBRGSBDB2P5VE" width='40px' height='40px'><a href="https://apps.apple.com/kr/app/%EB%88%88%EA%B8%B8-%EC%A0%90%EC%9E%90-%EB%AC%B8%EC%84%9C-%EB%B2%88%EC%97%AD%EA%B8%B0/id1602907926?l=en"></a> <img src="https://raw.githubusercontent.com/ProjectInTheClass/UniCalendar/main/ForAppStore/UniCalendar_Icon.png" width='40px' height='40px'/><a href="https://apps.apple.com/kr/app/%EC%9C%A0%EB%8B%88%EC%BA%98%EB%A6%B0%EB%8D%94/id1555101858"></a>
 
 ### My recent favorites❣️ are...
 
