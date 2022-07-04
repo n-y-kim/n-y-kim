@@ -6,6 +6,7 @@
 
 ### Hello👋 I'm...
 
+- Technical Specaialist Intern at @Microsoft
 - majoring in `Multimedia Engineering at Dongguk Uni.(2019~)`
 - interested in `DevOps` and `Backend`.
 - `Noongil` & `UniCalendar` Developer</br></br>
