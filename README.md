@@ -3,7 +3,7 @@
 ## Nayeon Kim🥑
 <a href="https://www.linkedin.com/in/nayeon-kim-72b863209/"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&"/></a> <img src = "https://img.shields.io/badge/nyn2265@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> <a href="https://archive-me-0329.tistory.com/"><img src="https://img.shields.io/badge/Tech blog-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"></a>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-y-kim"/> -->
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fn-y-kim&count_bg=%23FFFFFF&title_bg=%23F5DBFF&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### Hello👋 I'm...
 
 - Technical Specaialist Intern at @Microsoft
@@ -29,9 +29,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=n-y-kim"/>  -->
 <!-- > #### Recent project, 🦄유니캘린더(UniCalendar) introduction link 👉🏻 https://projectintheclass.github.io/UniCalendar/<br>
 > ## 🔥 <string>Download link</string> 🔥 👉🏻 https://apps.apple.com/app/id1555101858  -->
-<!-- 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fn-y-kim&count_bg=%23FFFFFF&title_bg=%23F5DBFF&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
- -->
+
+
+ 
  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-y-kim&layout=compact&hide=jupyter%20notebook )](https://github.com/n-y-kim/github-readme-stats)
  -->
