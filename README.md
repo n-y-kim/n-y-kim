@@ -6,7 +6,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fn-y-kim&count_bg=%23FFFFFF&title_bg=%23F5DBFF&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### Hello👋 I'm...
 
-- Technical Specaialist Intern at @Microsoft
+- Cloud Solution Architect @Microsoft
 - majoring in `Multimedia Engineering at Dongguk Uni.(2019~)`
 - interested in `DevOps` and `Backend`.
 - `Noongil` & `UniCalendar` Developer</br></br>
