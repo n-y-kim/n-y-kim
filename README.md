@@ -8,7 +8,6 @@
 
 - Cloud Solution Architect @Microsoft
 - majoring in `Multimedia Engineering at Dongguk Uni.(2019~)`
-- interested in `DevOps` and `Backend`.
 - `Noongil` & `UniCalendar` Developer</br></br>
 <a href="https://apps.apple.com/kr/app/%EB%88%88%EA%B8%B8-%EC%A0%90%EC%9E%90-%EB%AC%B8%EC%84%9C-%EB%B2%88%EC%97%AD%EA%B8%B0/id1602907926?l=en"><img src="https://avatars.githubusercontent.com/u/89290947?s=200&v=4" width='40px' height='40px'></a> <a href="https://apps.apple.com/kr/app/%EC%9C%A0%EB%8B%88%EC%BA%98%EB%A6%B0%EB%8D%94/id1555101858"><img src="https://raw.githubusercontent.com/ProjectInTheClass/UniCalendar/main/ForAppStore/UniCalendar_Icon.png" width='40px' height='40px'/></a>
 
