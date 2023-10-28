@@ -1,6 +1,6 @@
 <!-- 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=Nayeon's Github&fontSize=90&animation=twinkling&fontColor=ffffff&fontAlign:50&fontSize:40"> -->
-## Nayeon Kim🥑
+## Nayeon Kim
 <a href="https://www.linkedin.com/in/nayeon-kim-72b863209/"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&"/></a> <img src = "https://img.shields.io/badge/nyn2265@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
 <!--<a href="https://archive-me-0329.tistory.com/"><img src="https://img.shields.io/badge/Tech blog-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"></a>-->
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fn-y-kim&count_bg=%23FFFFFF&title_bg=%23F5DBFF&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
