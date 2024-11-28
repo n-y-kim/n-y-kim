@@ -1,11 +1,11 @@
-<!--<a href="https://archive-me-0329.tistory.com/"><img src="https://img.shields.io/badge/Tech blog-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"></a>-->
-<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fn-y-kim&count_bg=%23FFFFFF&title_bg=%23F5DBFF&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
 ### Hello👋 I'm...
 
-☁️ Cloud Solution Architect [@microsoft](https://github.com/microsoft). <br>
-I focus on ⚓️[Azure Kubernetes Service(AKS)](https://learn.microsoft.com/en-us/azure/aks/intro-kubernetes)⚓️, Azure OpenAI(AOAI), App Service, Azure DevOps and more. 💭
+Software Developer [@SAP Labs Korea](https://github.com/sap).
 
-I developed image based braille translation app, <a href="https://apps.apple.com/kr/app/%EB%88%88%EA%B8%B8-%EC%A0%90%EC%9E%90-%EB%AC%B8%EC%84%9C-%EB%B2%88%EC%97%AD%EA%B8%B0/id1602907926?l=en">Noongil(눈길)</a> in 2022.<br>
+#### Before that..
+- (2022.11 - 2024.11) Cloud Solution Architect [@microsoft](https://github.com/microsoft)
+- (2022.6 - 2022.9) Technical Specialist Intern [@microsoft](https://github.com/microsoft)
+- (2021 - 2022) Developer & Founder of Braille Translation App, <a href="https://apps.apple.com/kr/app/%EB%88%88%EA%B8%B8-%EC%A0%90%EC%9E%90-%EB%AC%B8%EC%84%9C-%EB%B2%88%EC%97%AD%EA%B8%B0/id1602907926?l=en">Noongil(눈길)</a>
 
 #### Connect me through
 <!-- <a href="https://www.linkedin.com/in/nayeon-kim-72b863209/"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&"/></a> -->
